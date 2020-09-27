@@ -1,1 +1,2 @@
 This contains all the python scripts created with discord.py and compatible to host with Heroku
+[![Run on Repl.it](https://repl.it/badge/github/TechByRavi/Python-With-Heroku-Scripts)](https://repl.it/github/TechByRavi/Python-With-Heroku-Scripts)
